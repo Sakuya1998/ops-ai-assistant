@@ -1,4 +1,4 @@
-module github.com/your-org/ops-ai-assistant
+module github.com/Sakuya1998/ops-ai-assistant
 
 go 1.21
 

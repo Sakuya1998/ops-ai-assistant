@@ -3,8 +3,8 @@ package handler
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
-	"github.com/your-org/ops-ai-assistant/internal/api/dto"
-	"github.com/your-org/ops-ai-assistant/internal/orchestration/nodes"
+	"github.com/Sakuya1998/ops-ai-assistant/internal/api/dto"
+	"github.com/Sakuya1998/ops-ai-assistant/internal/orchestration/nodes"
 )
 
 type ChatHandler struct{}

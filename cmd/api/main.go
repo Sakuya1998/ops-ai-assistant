@@ -4,9 +4,9 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/your-org/ops-ai-assistant/internal/api/handler"
-	"github.com/your-org/ops-ai-assistant/internal/pkg/config"
-	"github.com/your-org/ops-ai-assistant/internal/pkg/logger"
+	"github.com/Sakuya1998/ops-ai-assistant/internal/api/handler"
+	"github.com/Sakuya1998/ops-ai-assistant/internal/pkg/config"
+	"github.com/Sakuya1998/ops-ai-assistant/internal/pkg/logger"
 )
 
 func main() {

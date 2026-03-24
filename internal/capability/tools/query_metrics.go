@@ -2,7 +2,7 @@ package tools
 
 import (
 	"context"
-	"github.com/your-org/ops-ai-assistant/internal/datasource/prometheus"
+	"github.com/Sakuya1998/ops-ai-assistant/internal/datasource/prometheus"
 )
 
 type QueryMetricsTool struct {
